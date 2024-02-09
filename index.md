@@ -1,6 +1,6 @@
 PRIVACY POLICY
  
-This Privacy Policy (the “Privacy Policy”) describes the consented information Company collects via Krishi Portal (“App”) from or about User(s). It also describes how Company may use, share, and handle the information so collected.
+This Privacy Policy (the “Privacy Policy”) describes the consented information Care pvt Ltd collects via Krishi Portal (“App”) from or about User(s). It also describes how Company may use, share, and handle the information so collected.
  
 Company views protection of User(s) privacy as a very important principle. Company stores and processes User(s) information which may also include sensitive financial information collected (as defined under the Information Technology Act, 2000), if any, on computers, devices that may be protected by physical as well as reasonable technological security measures and procedures in accordance with Information Technology Act 2000 and Rules there under.
  
@@ -32,9 +32,5 @@ address, or telephone number) about User(s) visits to this and other websites in
 By using the App and/ or by providing information, User(s) consent to the collection and use of the information that is disclosed on the App or the information created while using the App.in accordance with this privacy policy, including but not limited to consent for sharing information as per this privacy policy.
  
 If Company decides to change its privacy policy, the changes or the revised Privacy Policy will be posted on this page so that User(s) are always aware of what information Company collect, how it is used, and under what circumstances Company discloses it.
-8.   	Grievance Officer
-In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
-app.inforamationcare@gmail.com; Krishi,  Kathmandu 
- 
 
 
