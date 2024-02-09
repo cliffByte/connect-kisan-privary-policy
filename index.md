@@ -2,7 +2,7 @@ PRIVACY POLICY
  
 This Privacy Policy (the “Privacy Policy”) describes the consented information Care pvt Ltd collects via Krishi Portal (“App”) from or about User(s). It also describes how Company may use, share, and handle the information so collected.
  
-Company views protection of User(s) privacy as a very important principle. Company stores and processes User(s) information which may also include sensitive financial information collected (as defined under the Information Technology Act, 2000), if any, on computers, devices that may be protected by physical as well as reasonable technological security measures and procedures in accordance with Information Technology Act 2000 and Rules there under.
+Company views protection of User(s) privacy as a very important principle. Company stores and processes User(s) information which   defined under the Information Technology Act, 2000, if any, on computers, devices that may be protected by physical as well as reasonable technological security measures and procedures in accordance with Information Technology Act 2000 and Rules there under.
  
 Before using our App, User(s) should review this Privacy Policy and the Terms of Use on our App.  By using the App, User(s) are consenting to the collection, processing, use, and disclosure of User(s) Personal Information as set forth in this Privacy Policy.  If User(s) do not agree to be bound by this Policy, User(s) are not authorised to, and User(s) may not, access or use our App. 
  
